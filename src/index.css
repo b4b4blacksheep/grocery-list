@@ -1,0 +1,31 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+h1 {
+	font-family: 'Bitter', serif;
+	font-weight: 700;
+	font-style: italic;
+}
+
+p {
+	font-family: 'Urbanist', sans-serif;
+	font-weight: 600;
+	font-style: normal;
+}
+
+* {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+	font-style: normal;
+}	
+
+body {
+  background-color: #e1e1e1;
+}
+
+.footer-p {
+	font-family: 'Bebas Neue', sans-serif;
+	font-weight: normal;
+	font-style: normal;
+}
